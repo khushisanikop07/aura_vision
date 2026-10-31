@@ -1,4 +1,3 @@
-# aura_vision
 # AI Object Detector — Aura Vision
 
 Real-time object detection in the browser. The app opens your webcam, runs a
